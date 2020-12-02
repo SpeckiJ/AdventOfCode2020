@@ -1,0 +1,8 @@
+[package]
+name = "day_2"
+version = "1.0.0"
+authors = ["speckij"]
+edition = "2018"
+
+[dependencies]
+regex = "1"
